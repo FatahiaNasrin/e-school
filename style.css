@@ -1,0 +1,37 @@
+.top-background{
+    background-color: #f0fff0;
+}
+.button{
+    background-color: #21b573;
+    padding:9px 25px;
+    border: none;
+    border-radius: 33px;
+    color: white;
+}
+h1{
+    font-size: 50px;
+}
+.green-highlighted{
+    color:#21b573;
+}
+.book1, .book2, .book3, .book3{
+    background-color:thistle;
+    box-shadow: 2px 2px 5px lightblue;
+    border-radius: 10px;
+    padding: 10px 40px;
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px lightblue;
+}
+.testimonial{
+    margin: 60px;
+}
+.footer{
+    background-color: rgb(72, 74, 77);
+    color:white;
+}
+.list-style{
+    list-style: none;
+}
